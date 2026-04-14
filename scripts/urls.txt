@@ -1,0 +1,10 @@
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/01_intro.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/02_overview.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/03_expressions.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/04_metam.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/05_syntax.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/06_macros.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/07_elaboration.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/08_dsls.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/09_tactics.html
+https://leanprover-community.github.io/lean4-metaprogramming-book/main/10_cheat-sheet.html
